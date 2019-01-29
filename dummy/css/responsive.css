@@ -1,0 +1,11 @@
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+	.wrapper {
+			    width: 100%;
+			    margin: 30px auto;
+			    position: relative;
+}
+
+       .col_fourth {
+                           width: 100%;
+}
+}

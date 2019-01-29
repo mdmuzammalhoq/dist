@@ -1,0 +1,4 @@
+[28-Apr-2018 01:56:33 America/Chicago] PHP Fatal error:  Call to a member function select() on a non-object in /home/distbd/public_html/dist-inc/dist-slider.php on line 15
+[28-Apr-2018 01:56:42 America/Chicago] PHP Fatal error:  Call to a member function select() on a non-object in /home/distbd/public_html/dist-inc/dist-slider.php on line 15
+[28-Apr-2018 01:56:47 America/Chicago] PHP Fatal error:  Call to a member function select() on a non-object in /home/distbd/public_html/dist-inc/dist-slider.php on line 15
+[22-May-2018 03:56:10 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/distbd/public_html/dummy/lib/database.php on line 18

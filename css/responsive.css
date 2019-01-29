@@ -1,0 +1,40 @@
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+	.wrapper {
+			    width: 100%;
+			    margin: 30px auto;
+			    position: relative;
+}
+
+       .col_fourth {
+                           width: 100%;
+}
+}
+
+
+    .fnt{
+            font-family: 'Marck Script', cursive;
+            font-size: 18px;
+            text-align: center;
+            color: #6c4205;
+            
+            padding: 8px;
+    font-family: 'Marck Script', cursive;
+    font-size: 18px;
+    color: #6c4205;
+    }
+
+    .cntr{
+            font-family: 'Marck Script', cursive;
+            font-size: 21px;
+            text-align: center;
+            color: #6c4205;
+    }
+
+    .hdr{
+        font-family: 'Julius Sans One', sans-serif;
+    }
+
+    .rrss{
+            text-align: center;
+            color: #479f2a;
+    }
